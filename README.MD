@@ -1,0 +1,1 @@
+I want to make a program in pythhon that can receive as input a picture of a torah scroll, and return as output the same picture with the correct cantilation notes and hebrew vowels.   it sould not matterthw size of the torah scroll or the size of the letters or the font, it should work perfectly with any torah, new and old.   how can i go about this?
